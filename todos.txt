@@ -1,4 +1,5 @@
 prepare
-make pizza
 clean the code
 Master Python
+levski
+make them
